@@ -3,7 +3,7 @@
 ## 👩‍🎓 Student Information
 | Name | Training Program | Project Type | Tool Used |
 |------|------------------|--------------|------------|
-| Mona Eltopagy | NTI Data Analysis Training | Final Project | Microsoft Excel |
+| Mona Eltopagy | NTI Data Analysis Training | First Week Project | Microsoft Excel |
 
 ---
 
