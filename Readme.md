@@ -70,6 +70,6 @@ This dashboard delivers a **360° view** of sales performance and business trend
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](2025-08-25.png)
 
 ---
